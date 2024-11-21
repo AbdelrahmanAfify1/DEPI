@@ -57,9 +57,10 @@ The **Customer Feedback Analysis and Improvement** project successfully transfor
 ---
 
 ## 🖋️ Contributors
-- **Abdelrahman Afify Hussien** (Team Leader)  
-- Nourhanne Salah Eldin Mohammed  
-- Abdullah Saeed Mohammed  
+- Abdelrahman Afify Hussien (Team Leader)
+- Abdullah Saeed Mohammed
 - Omar Khaled Ahmed  
-- Youssef Ali Anwer  
+- Nourhanne Salah Eldin Mohammed
 - Marwan Mohammed Ibrahim
+- Youssef Ali Anwer  
+
